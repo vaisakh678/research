@@ -1,0 +1,4 @@
+mediapipe-silicon
+opencv-python
+pandas
+numpy
